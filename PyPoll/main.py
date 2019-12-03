@@ -1,34 +1,24 @@
-import os
+inport os
 import csv
-budget_csv= os.path.join('..','resources', 'budget_data.csv')
-def print_avarage(budget_data)
-    date =str(budget_data[0])
-    Profit/Losses = int(budget_data[1])
-total_months = data
-def funcname(parameter_list):
-    pass
-total_Profit/Losses =  Profit/Losses
-average([Profit/Losses]=
+with open('election_data.csv','r') as csv_file:
+    csv_reader =csv.rader(csv_file)
+    print line in csv_reader:
+        print (line)
+election_csv = os.path.join ('..','Resourcese','election_data.csv')
 
-#def total += (month):
-    #print (total)
-# average of the changes in "Profit/Losses" over the entire period
-#def average (Profit/Losses)
-    #lenth =len (numbers)
-    #total =
-    #for number in numbers:
-       # total +=number
-        #total/length
-print (total_months)
-print (average([Profit/Losses])
-if  Increase in Profits = highest
-Print (Greatest Increase in Profits: date, amount
-if  Decrease in Profits = loweast
-print (Greatest Decrease in Profits: 
+#The percentage of votes each candidate wodef print_percentage(election_data)
+    #assain valuse
+    Voter ID = str (election_data [0])
+    County  = str (election_data [1])
+    Candidate = str (election_data [2])    
 
-#open and read csv
-with open(budget_csv, 'r') as csvfile:
+total_Voter
 
-   # csvreader = csv.reader(csvfile, delimiter=',')
-#prompt the th user for what liketo search for 
-Profit/Losses to check =input(Greatest Increase in Profits: date, amount)
+##The total number of votes cast
+total_Voter= len(df.axes[0])
+
+#A complete list of candidates who received votes
+
+#The percentage of votes each candidate won
+#The total number of votes each candidate won
+#he winner of the election based on popular vote.
